@@ -1,5 +1,5 @@
 #!/usr/bin/perl -w
-
+## USAGE : perl change_chain_id.pl input.pdb new_id > modified_pdb
 ## $ARGV[0] : Input PDB
 ## $ARGV[1] : Desired Chain ID
 
